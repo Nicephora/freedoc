@@ -1,24 +1,8 @@
 # README
+Victor Montagné
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Salut !
+Si tu veux voir si ça marche bien charge le seed puis charge les datas dans ton terminal rails :)
+Tu peux aussi checker le schema et les migrations.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Bien à toi :)
