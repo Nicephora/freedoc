@@ -1,4 +1,4 @@
-# README
+# FreeDoc
 Victor Montagné
 
 Salut !
